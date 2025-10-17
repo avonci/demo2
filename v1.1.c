@@ -25,6 +25,7 @@
  }
  
  printf("Datoteka %s uspešno ustvarjena.\n", argv[1]);
+
  printf("To je sprememba v main veji\n");
  return 0;
  }
