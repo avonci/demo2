@@ -1,3 +1,5 @@
 Hello world!
 
 Danes je lep dan.
+
+*Nova funkcija*
